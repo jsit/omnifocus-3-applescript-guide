@@ -18,6 +18,7 @@
 - primary tag (tag) (creation only)
 - tags (list of tags) (modification only)
 - flagged (boolean)
+- blocked (boolean)
 - completed (boolean)
 - creation date (date)
 - start date (date)
